@@ -1,0 +1,3 @@
+**Git bash here>git clone "url"
+**git status
+**git add . 
